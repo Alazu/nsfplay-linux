@@ -1,0 +1,5 @@
+build/
+dist/
+AppDir/
+test/out/
+contrib/.objs/

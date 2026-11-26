@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=NSFPlay
+GenericName=NES Music Player
+Comment=Play NES/Famicom NSF and NSFe music files
+Exec=nsfplay %f
+Icon=nsfplay
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+MimeType=audio/x-nsf;audio/x-nsfe;
